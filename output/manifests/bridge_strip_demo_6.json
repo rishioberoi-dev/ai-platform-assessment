@@ -1,0 +1,58 @@
+{
+  "image_name": "bridge_strip_demo_6.jpg",
+  "processed_at_utc": "2026-03-16T08:20:08.833470+00:00",
+  "status": "approved",
+  "final_path": "D:\\CV_QA_Test_Engineer\\CloudFactory_Assessment\\cloudfactory-ai-platform-assessment\\data\\approved\\bridge_strip_demo_6.jpg",
+  "reasons": [
+    "bridge_exif_strip_simulated",
+    "exif_restored_after_processing"
+  ],
+  "source_exif_summary": {
+    "exif_present": true,
+    "required_context_present": true,
+    "timestamp_fields_found": [
+      "DateTime"
+    ],
+    "timestamp_values": {
+      "DateTime": "2020:10:19 16:47:29"
+    },
+    "gps_present": false,
+    "gps_value": null,
+    "fields_found": [
+      "DateTime",
+      "Make",
+      "Model"
+    ]
+  },
+  "processed_exif_summary": {
+    "exif_present": true,
+    "required_context_present": true,
+    "timestamp_fields_found": [
+      "DateTime"
+    ],
+    "timestamp_values": {
+      "DateTime": "2020:10:19 16:47:29"
+    },
+    "gps_present": false,
+    "gps_value": null,
+    "fields_found": [
+      "DateTime",
+      "Make",
+      "Model"
+    ]
+  },
+  "preserved_required_exif": {
+    "DateTime": "2020:10:19 16:47:29",
+    "Make": "SONY",
+    "Model": "ILCE-7M3"
+  },
+  "exif_integrity_status": "exif_preserved",
+  "exif_integrity_message": "EXIF metadata integrity verification completed successfully.",
+  "bridge_strip_simulated": true,
+  "metadata_restoration_applied": true,
+  "metadata_restoration_succeeded": true,
+  "face_result": {
+    "faces_detected": false,
+    "face_count": 0
+  }
+}

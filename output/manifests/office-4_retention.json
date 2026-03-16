@@ -1,0 +1,10 @@
+{
+  "image_name": "office-4.jpg",
+  "image_path": "D:\\CV_QA_Test_Engineer\\CloudFactory_Assessment\\ai-platform-assessment\\data\\restricted_faces\\office-4.jpg",
+  "flagged_at_utc": "2026-03-16T11:05:59.138633+00:00",
+  "delete_after_utc": "2026-03-17T11:05:59.138633+00:00",
+  "retention_hours": 24,
+  "status": "restricted_face_retention",
+  "deleted": false,
+  "deleted_at_utc": null
+}

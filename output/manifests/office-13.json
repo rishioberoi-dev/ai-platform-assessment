@@ -1,0 +1,55 @@
+{
+  "image_name": "office-13.jpg",
+  "processed_at_utc": "2026-03-16T11:05:58.715390+00:00",
+  "status": "approved",
+  "final_path": "D:\\CV_QA_Test_Engineer\\CloudFactory_Assessment\\ai-platform-assessment\\data\\approved\\office-13.jpg",
+  "reasons": [],
+  "source_exif_summary": {
+    "exif_present": true,
+    "required_context_present": true,
+    "timestamp_fields_found": [
+      "DateTime"
+    ],
+    "timestamp_values": {
+      "DateTime": "2018:09:10 20:39:01"
+    },
+    "gps_present": false,
+    "gps_value": null,
+    "fields_found": [
+      "DateTime",
+      "Make",
+      "Model"
+    ]
+  },
+  "processed_exif_summary": {
+    "exif_present": true,
+    "required_context_present": true,
+    "timestamp_fields_found": [
+      "DateTime"
+    ],
+    "timestamp_values": {
+      "DateTime": "2018:09:10 20:39:01"
+    },
+    "gps_present": false,
+    "gps_value": null,
+    "fields_found": [
+      "DateTime",
+      "Make",
+      "Model"
+    ]
+  },
+  "preserved_required_exif": {
+    "DateTime": "2018:09:10 20:39:01",
+    "Make": "NIKON CORPORATION",
+    "Model": "NIKON D5300"
+  },
+  "exif_integrity_status": "exif_preserved",
+  "exif_integrity_message": "EXIF metadata integrity verification completed successfully.",
+  "bridge_strip_simulated": false,
+  "metadata_restoration_applied": false,
+  "metadata_restoration_succeeded": false,
+  "face_result": {
+    "faces_detected": false,
+    "face_count": 0
+  }
+}

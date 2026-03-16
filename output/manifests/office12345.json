@@ -1,0 +1,58 @@
+{
+  "image_name": "office12345.jpg",
+  "processed_at_utc": "2026-03-16T08:29:16.553274+00:00",
+  "status": "approved",
+  "final_path": "D:\\CV_QA_Test_Engineer\\CloudFactory_Assessment\\cloudfactory-ai-platform-assessment\\data\\approved\\office12345.jpg",
+  "reasons": [],
+  "source_exif_summary": {
+    "exif_present": true,
+    "required_context_present": true,
+    "timestamp_fields_found": [
+      "DateTime"
+    ],
+    "timestamp_values": {
+      "DateTime": "2017:05:26 18:27:38"
+    },
+    "gps_present": true,
+    "gps_value": "5419",
+    "fields_found": [
+      "DateTime",
+      "GPSInfo",
+      "Make",
+      "Model"
+    ]
+  },
+  "processed_exif_summary": {
+    "exif_present": true,
+    "required_context_present": true,
+    "timestamp_fields_found": [
+      "DateTime"
+    ],
+    "timestamp_values": {
+      "DateTime": "2017:05:26 18:27:38"
+    },
+    "gps_present": true,
+    "gps_value": "5419",
+    "fields_found": [
+      "DateTime",
+      "GPSInfo",
+      "Make",
+      "Model"
+    ]
+  },
+  "preserved_required_exif": {
+    "DateTime": "2017:05:26 18:27:38",
+    "GPSInfo": 5419,
+    "Make": "Google",
+    "Model": "Pixel XL"
+  },
+  "exif_integrity_status": "exif_preserved",
+  "exif_integrity_message": "EXIF metadata integrity verification completed successfully.",
+  "bridge_strip_simulated": false,
+  "metadata_restoration_applied": false,
+  "metadata_restoration_succeeded": false,
+  "face_result": {
+    "faces_detected": false,
+    "face_count": 0
+  }
+}

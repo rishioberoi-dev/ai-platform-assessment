@@ -1,0 +1,35 @@
+{
+  "image_name": "blurry_warehouse_dark_with_worker.png",
+  "processed_at_utc": "2026-03-16T08:29:13.924829+00:00",
+  "status": "approved",
+  "final_path": "D:\\CV_QA_Test_Engineer\\CloudFactory_Assessment\\cloudfactory-ai-platform-assessment\\data\\approved\\blurry_warehouse_dark_with_worker.png",
+  "reasons": [],
+  "source_exif_summary": {
+    "exif_present": false,
+    "required_context_present": false,
+    "timestamp_fields_found": [],
+    "timestamp_values": {},
+    "gps_present": false,
+    "gps_value": null,
+    "fields_found": []
+  },
+  "processed_exif_summary": {
+    "exif_present": false,
+    "required_context_present": false,
+    "timestamp_fields_found": [],
+    "timestamp_values": {},
+    "gps_present": false,
+    "gps_value": null,
+    "fields_found": []
+  },
+  "preserved_required_exif": {},
+  "exif_integrity_status": "exif_preserved",
+  "exif_integrity_message": "EXIF metadata integrity verification completed successfully. Source and processed image match, although required GPS/timestamp context was absent at source.",
+  "bridge_strip_simulated": false,
+  "metadata_restoration_applied": false,
+  "metadata_restoration_succeeded": false,
+  "face_result": {
+    "faces_detected": false,
+    "face_count": 0
+  }
+}

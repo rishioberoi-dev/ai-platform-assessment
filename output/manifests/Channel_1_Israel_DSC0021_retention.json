@@ -1,0 +1,7 @@
+{
+  "image_name": "Channel_1_Israel_DSC0021.jpg",
+  "flagged_at_utc": "2026-03-16T07:19:52.023326+00:00",
+  "delete_after_utc": "2026-03-17T07:19:52.023326+00:00",
+  "retention_hours": 24,
+  "status": "restricted_face_retention"
+}

@@ -1,0 +1,45 @@
+{
+  "image_name": "office-2(1)(1).jpg",
+  "processed_at_utc": "2026-03-16T08:29:16.012794+00:00",
+  "status": "restricted_face_retention",
+  "final_path": "D:\\CV_QA_Test_Engineer\\CloudFactory_Assessment\\cloudfactory-ai-platform-assessment\\data\\restricted_faces\\office-2(1)(1).jpg",
+  "reasons": [
+    "face_detected"
+  ],
+  "source_exif_summary": {
+    "exif_present": false,
+    "required_context_present": false,
+    "timestamp_fields_found": [],
+    "timestamp_values": {},
+    "gps_present": false,
+    "gps_value": null,
+    "fields_found": []
+  },
+  "processed_exif_summary": {
+    "exif_present": false,
+    "required_context_present": false,
+    "timestamp_fields_found": [],
+    "timestamp_values": {},
+    "gps_present": false,
+    "gps_value": null,
+    "fields_found": []
+  },
+  "preserved_required_exif": {},
+  "exif_integrity_status": "exif_preserved",
+  "exif_integrity_message": "EXIF metadata integrity verification completed successfully. Source and processed image match, although required GPS/timestamp context was absent at source.",
+  "bridge_strip_simulated": false,
+  "metadata_restoration_applied": false,
+  "metadata_restoration_succeeded": false,
+  "face_result": {
+    "faces_detected": true,
+    "face_count": 2
+  },
+  "retention_record": {
+    "image_name": "office-2(1)(1).jpg",
+    "flagged_at_utc": "2026-03-16T08:29:16.012889+00:00",
+    "delete_after_utc": "2026-03-17T08:29:16.012889+00:00",
+    "retention_hours": 24,
+    "status": "restricted_face_retention"
+  },
+  "retention_manifest_path": "D:\\CV_QA_Test_Engineer\\CloudFactory_Assessment\\cloudfactory-ai-platform-assessment\\output\\manifests\\office-2(1)(1)_retention.json"
+}

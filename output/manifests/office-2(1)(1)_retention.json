@@ -1,0 +1,7 @@
+{
+  "image_name": "office-2(1)(1).jpg",
+  "flagged_at_utc": "2026-03-16T08:29:16.012889+00:00",
+  "delete_after_utc": "2026-03-17T08:29:16.012889+00:00",
+  "retention_hours": 24,
+  "status": "restricted_face_retention"
+}
